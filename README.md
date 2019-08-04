@@ -1,1 +1,2 @@
-# B.Tech-Projects
+Project on Smart Home Automation and Security System using Raspberry Pi 3B. 
+In this we have used different sensor for security and monitoring and equipments like 5volt relay and an android application to control all the appliances present at our home.Sensors used are Humidity and Temperature Sensor, Gas Sensor, IR Sensor, Ultrasonic Sensor, PIR Sensor, Vibration Sensor, Soil Moisture Sensor and also a Camera Module is used.
